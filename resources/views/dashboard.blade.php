@@ -2,11 +2,11 @@
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
     <title>WebSockets Dashboard</title>
-<link href="{{asset('/socket_console/bootstrap.min.css')}}" rel="stylesheet">
-    <script src="{{asset('/socket_console/jquery-3.3.1.min.js')}}"></script>
-    <script src="{{asset('/socket_console/pusher.min.js')}}"></script>
-    <script src="{{asset('/socket_console/vue.min.js')}}"></script>
-    <script src="{{asset('/socket_console/plotly-latest.min.js')}}"></script>
+<link href="./bootstrap.min.css" rel="stylesheet">
+    <script src="./jquery-3.3.1.min.js"></script>
+    <script src="./pusher.min.js"></script>
+    <script src="./vue.min.js"></script>
+    <script src="./plotly-latest.min.js"></script>
 </head>
 
 <body>
