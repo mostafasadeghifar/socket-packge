@@ -1,6 +1,6 @@
 <?php
 
-namespace BeyondCode\LaravelWebSockets\Apps;
+namespace LaravelWebSockets\Apps;
 
 interface AppProvider
 {

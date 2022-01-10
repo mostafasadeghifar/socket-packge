@@ -2,25 +2,10 @@
     "name": "mostafasadeghi/laravel-websockets",
     "description": "An easy to use WebSocket server",
     "keywords": [
-        "beyondcode",
         "laravel-websockets"
     ],
-    "homepage": "https://github.com/beyondcode/laravel-websockets",
+    "homepage": "https://github.com/mostafasadeghifar/socket-package",
     "license": "MIT",
-    "authors": [
-        {
-            "name": "Marcel Pociot",
-            "email": "marcel@beyondco.de",
-            "homepage": "https://beyondcode.de",
-            "role": "Developer"
-        },
-        {
-            "name": "Freek Van der Herten",
-            "email": "freek@spatie.be",
-            "homepage": "https://spatie.be",
-            "role": "Developer"
-        }
-    ],
     "require": {
         "php": "^7.2|^8.0",
         "ext-json": "*",
@@ -45,12 +30,12 @@
     },
     "autoload": {
         "psr-4": {
-            "BeyondCode\\LaravelWebSockets\\": "src"
+            "LaravelWebSockets\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "BeyondCode\\LaravelWebSockets\\Tests\\": "tests"
+            "LaravelWebSockets\\Tests\\": "tests"
         }
     },
     "scripts": {
