@@ -1,6 +1,6 @@
 <?php
 
-namespace LaravelWebSockets\Console;
+namespace BeyondCode\LaravelWebSockets\Console;
 
 use BeyondCode\LaravelWebSockets\Facades\StatisticsLogger;
 use BeyondCode\LaravelWebSockets\Facades\WebSocketsRouter;

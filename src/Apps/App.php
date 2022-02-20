@@ -1,8 +1,8 @@
 <?php
 
-namespace LaravelWebSockets\Apps;
+namespace BeyondCode\LaravelWebSockets\Apps;
 
-use LaravelWebSockets\Exceptions\InvalidApp;
+use BeyondCode\LaravelWebSockets\Exceptions\InvalidApp;
 
 class App
 {

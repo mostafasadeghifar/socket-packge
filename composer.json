@@ -30,12 +30,12 @@
     },
     "autoload": {
         "psr-4": {
-            "LaravelWebSockets\\": "src"
+            "BeyondCode\\LaravelWebSockets\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "LaravelWebSockets\\Tests\\": "tests"
+            "BeyondCode\\LaravelWebSockets\\Tests\\": "tests"
         }
     },
     "scripts": {
