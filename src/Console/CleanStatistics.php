@@ -1,6 +1,6 @@
 <?php
 
-namespace namespace BeyondCode\LaravelWebSockets\Console;
+namespace BeyondCode\LaravelWebSockets\Console;
 
 use Carbon\Carbon;
 use Illuminate\Console\Command;
