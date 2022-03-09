@@ -1,6 +1,6 @@
 <?php
 
-namespace BeyondCode\LaravelWebSockets\Console;
+namespace BeyondCode\LaravelWebSockets\Apps;
 
 use Illuminate\Support\Collection;
 
