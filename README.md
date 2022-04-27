@@ -10,7 +10,7 @@ Bring the power of WebSockets to your Laravel application. Drop-in Pusher replac
 <!-- fasdfaf -->
 ## Installation
 
-Dillinger requires [php](https://php.net/) v7.4+ to run.
+This Package requires [php](https://php.net/) v7.4+ to run.
 
 Install the dependencies and devDependencies and start the server.
 
